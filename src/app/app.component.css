@@ -1,75 +1,12 @@
 
-header{
-    border-style:double;
-    border-style: solid;
-    border-radius: 10px;
-
-}
-
-#perfil{
-  
-    margin-left: 40px;
-    margin-top: -110px;
-
-}
 
 
 
-section{
-    border-style:double;
-    border-style: solid;
-    border-radius: 15px;
-}
 
-#Experiencia,#Educacion,#Skills,#Proyectos{
-    margin-left: 30px;
-}
 
-footer{
-    text-align: center;
-}
 
-#btt-editar-descripcion{
 
-margin-left: 70px;
-    
-}
 
-#ap{
-    position:absolute;
-    border-radius: 5px;
-    
-    z-index: 1;
-}
 
-#banner{
-    z-index: -1;
-}
 
-#face{
-    position: absolute;
-    float: right; width: 50px;
-    border-radius: 25%;
-    right: 9%;    
-    
-    z-index: 1;
-}
-
-#inst{
-    position: absolute;
-    float: right; width: 50px;
-    border-radius: 25%;
-    right: 5%;    
-    
-    z-index: 1;
-}
-
-#linked{
-    position: absolute;
-    float: right; width: 50px;
-    border-radius: 25%;
-    right: 1%;    
-    
-    z-index: 1;
-}
 
